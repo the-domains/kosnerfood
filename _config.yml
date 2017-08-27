@@ -1,0 +1,32 @@
+layout_spectrum: 0.4058591985351194
+typography_spectrum: 0.6563454652352646
+color:
+  brandStrength: 0.3211589240379595
+  lightness: 0.5058739910865812
+  saturation: 0.6418347588040414
+  rhythmicContrast: 0.18240812453413657
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: kbFood
+content: []
+url: 'https://food.kosnerburstein.com'
+analytics:
+  google: UA-104323546-3
+title: Food By KB
+description: Ultimate Food!!
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/56632739-7652-44ae-a61d-0df84bede0e6.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9684727-7e22-4bbf-b672-5c0a0447136d.gif
+github: true
