@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: kbFood
+name: Food By KB
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -120,7 +120,7 @@ url: 'https://food.kosnerburstein.com'
 analytics:
   google: UA-104323546-3
 title: Food By KB
-description: Ultimate Food!!
+description: 'Launch on September 3rd, so psyched'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0149a692-7ae8-4d49-9830-bba19975b6c5.png
 logo: >-
